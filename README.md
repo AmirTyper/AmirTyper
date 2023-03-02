@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on a BotNet
 - 🌱 I’m currently learning Tcp/Ip - Network Security
 - ⚡ Fun fact: I started programming when I was 11
--->
 <br>
 
 <h1 align="center">☘️ ʟᴀɴɢᴜᴀɢᴇꜱ & ᴛᴏᴏʟꜱ</h1>
