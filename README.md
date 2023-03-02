@@ -29,9 +29,6 @@
 
 <h1 align="center">✉️ ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ</h1>
 <p align="center">
-    <a href="https://instagram.com/amir_typer">
-        <img src="https://skillicons.dev/icons?i=instagram">
-    </a>
     <a href="https://twitter.com/AmirTyper">
         <img src="https://skillicons.dev/icons?i=twitter">
     </a>
