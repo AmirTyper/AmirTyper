@@ -6,6 +6,10 @@
 - ⚡ Fun fact: I started programming when I was 11
 <br>
 
+<p align="center">
+<a title="Amir's profile views " href="https://github.com/AmirTyper" ><img src="https://komarev.com/ghpvc/?username=AmirTyper&style=for-the-badge" alt="Amir's profile views"></a>
+</p>
+
 <h1 align="center">☘️ ʟᴀɴɢᴜᴀɢᴇꜱ & ᴛᴏᴏʟꜱ</h1>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,6 +35,10 @@
 <p align="center">
     <a href="https://twitter.com/AmirTyper">
         <img src="https://skillicons.dev/icons?i=twitter">
+    </a>
+  
+  <a href="https://t.me/Mr_Amir_Typer">
+        <img src="https://www.iconfinder.com/icons/3069742/download/png/48">
     </a>
 </p>
 
@@ -58,7 +66,7 @@
 </div>
 
 <div align="center"> 
-
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amirtyper&theme=radical)
-
+  
 </div>
