@@ -38,7 +38,7 @@
     </a>
   
   <a href="https://t.me/Mr_Amir_Typer">
-        <img src="https://www.iconfinder.com/icons/3069742/download/png/48">
+        <img src="https://www.iconfinder.com/icons/3787425/download/png/48">
     </a>
 </p>
 
