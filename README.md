@@ -2,7 +2,7 @@
 - 👨‍🎓 Student at Mohajer Technical And Vocational University
 - 📚 Studying Network Engineering
 - 🔭 I’m currently working on a BotNet
-- 🌱 I’m currently learning TCP/IP - Network Security
+- 🌱 I’m currently learning TCP/IP - IoT
 - ⚡ Fun fact: I started programming when I was 11
 <br>
 
